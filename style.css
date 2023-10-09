@@ -35,6 +35,7 @@ h1{
 #inpt{
     background: transparent;
     border: none;
+    outline: none;
     height: 180px;
     font-size: 3rem;
     line-height: 2rem;
